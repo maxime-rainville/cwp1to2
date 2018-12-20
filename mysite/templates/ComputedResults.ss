@@ -1,0 +1,1 @@
+<p><%t Page.Results 'Your result is <strong>{value}</strong>.' value=$Value %></p>
